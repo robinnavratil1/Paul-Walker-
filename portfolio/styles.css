@@ -1,0 +1,59 @@
+.nav-links {
+    list-style: none;
+    display: flex;
+    color: white;
+}
+.nav-link {
+    margin-left: 24px;
+    margin-right: 24px;
+    font-size: 24px;
+    color: #ffff;
+
+}
+.navigation-menu {
+    display: flex;
+    justify-content: center;
+    background-color: #000000;
+    color: pink;
+}
+body{
+    margin: 0;
+}
+.nav-link {
+    margin-left: 24px;
+    margin-right: 24px;
+    font-size: 24px;
+    color: #ffff
+}
+
+.background {
+    justify-content: center;
+}
+
+.main-page-info {
+    color: white;
+}
+
+.registration-heading- {
+    color: white;
+    text-align: center;
+}
+
+.service-card {
+    color: white;
+}
+
+.services-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.service-card {
+    border: solid 2px white;
+    width: 900px;
+    margin: 40px auto auto;
+    padding: 12px;
+    border-radius: 10px;
+}
+
